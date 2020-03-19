@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frases de coach</string>
+    <string-array name="frases">
+        <item name="frase1">Quanto mais treino, mais sorte tenho</item>
+        <item name="frase2">Você é capaz de tudo</item>
+        <item name="frase3">Você está com mindset limitante</item>
+        <item name="frase4">Seja seu próprio chefe</item>
+    </string-array>
+    <string name="btnLabel">GERAR UMA FRASE</string>
+    <string name="imgDescription">Imagem de coach</string>
+    <string name="lblTextView">Aperte o botão para ver uma frase inspiradora</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Coaching phrases "</string>
+    <string-array name="frases">
+        <item name="frase1">" The more training, the luckier I get"</item>
+        <item name="frase2">" You are capable of everything"</item>
+        <item name="frase3">" You have a limiting mindset"</item>
+        <item name="frase4">"Be your own boss "</item>
+    </string-array>
+    <string name="btnLabel">GENERATE A PHRASE</string>
+    <string name="imgDescription">Coaching image</string>
+    <string name="lblTextView">" Press the button to see an inspiring phrase"</string>
+</resources>
